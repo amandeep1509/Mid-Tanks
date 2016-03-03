@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{5CFD9384-7402-0093-3DCC-067C758029E8}") = "amandeep-MidTerm-Tanks", "Assembly-CSharp.csproj", "{EEFE89D3-A3F8-A9D3-31D7-C55BD4DF92A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEFE89D3-A3F8-A9D3-31D7-C55BD4DF92A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEFE89D3-A3F8-A9D3-31D7-C55BD4DF92A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEFE89D3-A3F8-A9D3-31D7-C55BD4DF92A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEFE89D3-A3F8-A9D3-31D7-C55BD4DF92A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

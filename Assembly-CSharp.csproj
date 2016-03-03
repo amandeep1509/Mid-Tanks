@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{44F74C8E-91A1-B941-ADFD-5917E9AA9264}</ProjectGuid>
+    <ProjectGuid>{EEFE89D3-A3F8-A9D3-31D7-C55BD4DF92A7}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -47,6 +47,7 @@
   <ItemGroup>
      <Compile Include="Assets\_Scripts\EnemyController.cs" />
      <Compile Include="Assets\_Scripts\GameController.cs" />
+     <Compile Include="Assets\_Scripts\PlayerCollider.cs" />
      <Compile Include="Assets\_Scripts\PlayerController.cs" />
      <Compile Include="Assets\_Scripts\RoadController.cs" />
      <Compile Include="Assets\scr.cs" />
